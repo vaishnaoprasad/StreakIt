@@ -11,7 +11,7 @@ Requirements <br />
 Install node.js from https://nodejs.org/en <br />
 Install ionic using - npm install -g @ionic/cli <br />
 Install angular using - npm install -g @angular/cli <br />
-Android Studio
+Android Studio from https://developer.android.com/studio <br /> 
 
 Steps to run <br />
 Open the project in VS Code <br />
@@ -33,3 +33,39 @@ To deploy the app on local server give the command - ionic server
 </div>
 
 Thanks for visiting !
+
+
+
+
+# StreakIt
+
+## About the App
+
+A Todo progressive web app and android app, also bridgeable to iOS and desktop OS platforms with the help of Capacitor.js & Electron.js. This app demonstrates the use of various latest components in Ionic, Swiper.js, and quite possibly complex CRUD operations within the app.
+
+### Technologies Used
+
+- **Ionic Framework**
+- **Angular Framework**
+
+### Ionic Components
+
+- IonModal
+- IonActionSheet
+- IonToast
+- IonProgressBar
+- IonIcon
+- etc.
+
+### Libraries
+
+- Capacitor.js
+- Swiper.js
+- RxJs
+
+## Requirements
+
+- Install node.js from [nodejs.org](https://nodejs.org/en)
+- Install Ionic using:
+  ```sh
+  npm install -g @ionic/cli
