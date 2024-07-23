@@ -55,7 +55,6 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
 - IonToast
 - IonProgressBar
 - IonIcon
-- etc.
 
 ### Libraries
 
@@ -69,3 +68,5 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
 - Install Ionic using:
   ```sh
   npm install -g @ionic/cli
+  ```sh
+  npm install -g @angular/cli
