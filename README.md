@@ -1,5 +1,5 @@
 # StreakIt <br />
-About the App
+About the App <br />
 A Todo progressive web app and android app, also bridgeable to ios and desktop OS platforms with help of capacitor.js & electron.js.
 This app demonstrates the use of various latest components in ionic, swiper.js and quite possible complex crud operations within the app.
 
