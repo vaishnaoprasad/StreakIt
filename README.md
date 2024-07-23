@@ -4,7 +4,7 @@ A Todo progressive web app and android app, also bridgeable to ios and desktop O
 This app demonstrates the use of various latest components in ionic, swiper.js and quite possible complex crud operations within the app.
 
 Technologies Used - Ionic Framework, Angular Framework <br />
-Ionic Components - IonModal, ActionSheet, IonToast, IonProgressBar, IonIcon etc.. <br />
+Ionic Components - IonModal, IonActionSheet, IonToast, IonProgressBar, IonIcon etc.. <br />
 Libraries - Capacitor.js, Swiper.js, RxJs <br />
 
 <div align="center">
