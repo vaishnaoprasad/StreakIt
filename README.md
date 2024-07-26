@@ -4,6 +4,8 @@
 
 A Todo progressive web app and android app, also bridgeable to iOS and desktop OS platforms with the help of Capacitor.js & Electron.js. This app demonstrates the use of various latest components in Ionic, Swiper.js, and quite possibly complex CRUD operations within the app.
 
+...
+
 ## Video
 
 <div align="center" style="background-color: #252525; padding: 10px; border-radius: 5px;">
@@ -65,5 +67,8 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
   ionic cap open
   ```
 
+
+  ...
+  
 ### Thanks for visiting !
 
