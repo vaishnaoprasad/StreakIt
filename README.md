@@ -15,7 +15,7 @@
 - **Ionic Framework**
 - **Angular Framework**
 
-### Ionic Components
+#### Ionic Components
 
 - IonModal
 - IonActionSheet
@@ -23,13 +23,13 @@
 - IonProgressBar
 - IonIcon
 
-### Libraries
+#### Libraries
 
 - Capacitor.js
 - Swiper.js
 - RxJs
 
-## Requirements
+#### Requirements
 
 - Install node.js from [nodejs.org](https://nodejs.org/en)
 - Install Android Studio from [developer.android.com/studio](https://developer.android.com/studio)
@@ -42,7 +42,7 @@
   npm install -g @angular/cli
   ```
   
-## Steps to run
+#### Steps to run
 
 - Open the project in VS Code <br />
 - Open a terminal and give the following commands in sequence
@@ -66,7 +66,7 @@
   ionic cap open
   ```
 
-
+<br />
   
-## Thanks for visiting !
+### Thanks for visiting !
 
