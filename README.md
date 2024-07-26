@@ -100,5 +100,5 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
 
 Video
 
-  <a href="https://youtu.be/jbakWYFC588?si=2laZZOmF9nkGNN64" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/jbakWYFC588?si=2laZZOmF9nkGNN64)" 
+  <a href="https://youtu.be/jbakWYFC588?si=2laZZOmF9nkGNN64" target="_blank"><img src="http://img.youtube.com/vi/@vaishnaoprasad-qw5bo/0.jpg" 
 alt="Todo App Demo" width="50%" border="10" /></a>
