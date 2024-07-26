@@ -66,7 +66,11 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
 
 - Install node.js from [nodejs.org](https://nodejs.org/en)
 - Install Ionic using:
-  ```npm install -g @ionic/cli```
+  ```
+  npm install -g @ionic/cli
+  ```
 - Install Angular using:
-  ```npm install -g @angular/cli```
-- Install Android Studio from [https://developer.android.com/studio]
+  ```
+  npm install -g @angular/cli
+  ```
+- Install Android Studio from [developer.android.com/studio](https://developer.android.com/studio)
