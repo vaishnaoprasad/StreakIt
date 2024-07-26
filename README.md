@@ -79,8 +79,7 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
 
 - Open the project in VS Code <br />
 - Open a terminal and give the following commands in sequence
-  ```
-  1.
+  1. ```
   ionic build
   ```
   
