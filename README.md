@@ -74,3 +74,27 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
   npm install -g @angular/cli
   ```
 - Install Android Studio from [developer.android.com/studio](https://developer.android.com/studio)
+
+## Steps to run
+
+- Open the project in VS Code <br />
+- Open a terminal and give the following commands in sequence
+  ```
+  ionic build
+  ```
+  
+  ```
+  ionic cap build
+  ```
+  ```
+  ionic cap copy
+  ```
+  ```
+  ionic cap sync
+  ``` 
+  ```
+  ionic cap update
+  ```
+  ```
+  ionic cap open
+  ```
