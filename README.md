@@ -70,5 +70,5 @@ A Todo progressive web app and android app, also bridgeable to iOS and desktop O
 
   ---
   
-### Thanks for visiting !
+## Thanks for visiting !
 
